@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
@@ -15330,11 +15330,11 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="MOUSER" value="511-STM32F042F6P6" x="28" y="9.3" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="32.2" y="9.3" size="0.6096" layer="25" ratio="15" rot="R90" align="bottom-center"/>
 </element>
-<element name="C1" library="milador_SMD" library_urn="urn:adsk.eagle:library:27847482" package="0603" package3d_urn="urn:adsk.eagle:package:29222124/2" value="4.7pF" x="26.3" y="4.3" smashed="yes">
+<element name="C1" library="milador_SMD" library_urn="urn:adsk.eagle:library:27847482" package="0603" package3d_urn="urn:adsk.eagle:package:29222124/2" value="4.7uF" x="26.3" y="4.3" smashed="yes">
 <attribute name="NAME" x="26.3" y="5.062" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="VALUE" x="26.3" y="3.538" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="C2" library="milador_SMD" library_urn="urn:adsk.eagle:library:27847482" package="0603" package3d_urn="urn:adsk.eagle:package:29222124/2" value="4.7pF" x="35.5" y="18.45" smashed="yes">
+<element name="C2" library="milador_SMD" library_urn="urn:adsk.eagle:library:27847482" package="0603" package3d_urn="urn:adsk.eagle:package:29222124/2" value="4.7uF" x="35.5" y="18.45" smashed="yes">
 <attribute name="NAME" x="35.5" y="19.212" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="VALUE" x="35.5" y="17.688" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
